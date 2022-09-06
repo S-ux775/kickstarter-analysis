@@ -1,12 +1,12 @@
 # kickstarter-analysis
 
 ** Overview of Project
-The project is aimed to understand wheather or not a fundraising campaing for a play can ba a successful project. The projet has an estimate budget of over $ 10,000 USD.s 
+The project is aimed to understand whether or not a fundraising campaing for a play can ba a successful project. The projet has an estimate budget of over $ 10,000 USD. 
 
 ** Analysis and Challenges
-    For this project, we had access to history of other fundraising campaigns and the outcome of them: wheher they were successful or not.
+    For this project, we had access to history of other fundraising campaigns and the outcome of them: whether they were successful or not.
 
-    Available inforomation was sorted, filtered and handle for better use. 
+    Available information was sorted, filtered and handled for better use. 
 
 ** Results
     Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
